@@ -1,0 +1,11 @@
+<http://nova-lincs.di.fct.unl.pt/person/184>
+        <http://www.w3.org/2001/vcard-rdf/3.0#FN>
+                "Carlos Viegas Damásio" ;
+        <http://www.w3.org/2001/vcard-rdf/3.0#GEO>
+                <geo:38.661445,-9.2057587> ;
+        <http://www.w3.org/2001/vcard-rdf/3.0#N>
+                [ <http://www.w3.org/2001/vcard-rdf/3.0#Family>
+                          "Viegas Damásio" ;
+                  <http://www.w3.org/2001/vcard-rdf/3.0#Given>
+                          "Carlos"
+                ] .
